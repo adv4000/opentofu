@@ -1,0 +1,2 @@
+# opentofu
+OpenTofu Project (Terraform)
